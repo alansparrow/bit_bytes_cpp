@@ -1,0 +1,3 @@
+﻿  ByteBit.cpp
+c:\users\baotrungtn\desktop\c++\bytebit\bytebit\bytebit.cpp(67): warning C4244: 'initializing': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+  ByteBit.vcxproj -> C:\Users\baotrungtn\Desktop\C++\ByteBit\Debug\ByteBit.exe
